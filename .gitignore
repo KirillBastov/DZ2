@@ -1,0 +1,6 @@
+*.cache
+DomZad2/obj/Debug/DomZad2.csproj.FileListAbsolute.txt
+*.exe
+*.sln
+*.config
+*.pdb
