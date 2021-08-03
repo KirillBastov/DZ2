@@ -4,3 +4,6 @@ DomZad2/obj/Debug/DomZad2.csproj.FileListAbsolute.txt
 *.sln
 *.config
 *.pdb
+*.json
+*.targets
+*.props
