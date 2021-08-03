@@ -7,3 +7,5 @@ DomZad2/obj/Debug/DomZad2.csproj.FileListAbsolute.txt
 *.json
 *.targets
 *.props
+*.txt
+*.dll
