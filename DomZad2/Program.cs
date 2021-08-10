@@ -23,7 +23,7 @@ class Program
         Console.WriteLine(" ^ : Возведение в степень");
         Console.WriteLine(" F : Факториал");
         Console.WriteLine(" V : Вычисление выражения в одну строку ");
-        Console.WriteLine(" Q : ВЫХОД из программы ");
+        Console.WriteLine(" Q : ВЫХОД из консольной программы ");
         Console.WriteLine();
         colorwhite();
 
